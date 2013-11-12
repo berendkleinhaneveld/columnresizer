@@ -5,7 +5,7 @@ Python port of the C++ code.
 For use with PySide.
 Only supports grid layouts.
 
-Copyright 2011 Aurélien Gâteau <agateau@kde.org>
+Copyright 2011 Aurelien Gateau <agateau@kde.org>
 License: LGPL v2.1 or later (see COPYING)
 
 :Authors:
